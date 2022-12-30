@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(to bottom right, lightgreen, lightblue);
+}
+
+.heading{
+    width: 100%;
+    margin:0;
+    font-size:23px;
+    font-weight: bold;
+}
+
+.note{
+    font-size:18;
+    color: black;
+}
+
+.canvas{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px white;
+    
+}
